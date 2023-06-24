@@ -1,6 +1,36 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Collection of Advice for PhD Application"
+subtitle: ""
+summary: ""
+authors: [Bin Hu]
+tags: [PhD Application]
+categories: [Collection]
+date: 2023-06-23T22:55:43-05:00
+lastmod: 2023-06-24T00:15:03-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 这几天整理了一下浏览器收藏夹里的各种关于 PhD 申请的攻略文章，分了类并且写了简短的中文导读，另外也添加了一些自己常用的网站。下面的部分文章和 CS 强相关，所以如果你申请的不是 CS 方向的 PhD，请选择性的阅读这些文章。
 
-这篇文章会同步在GitHub 仓库：**[binhu02/Collection-of-advice-for-PhD-application](https://github.com/binhu02/Collection-of-advice-for-PhD-application)**
+这篇文章会同步在GitHub仓库：**[binhu02/Collection-of-advice-for-PhD-application](https://github.com/binhu02/Collection-of-advice-for-PhD-application)**
 
 也欢迎大家给我发邮件补充相关的文章，我会放一份致谢名单在这里。
 
@@ -12,7 +42,7 @@
 
 - [**Student Perspectives on Applying to NLP PhD Programs**](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin
 
-  （这篇真的太详细了，非常建议优先看完）
+  （这篇非常详细，建议优先看完）
 
 - **[Undergrad to PhD, or not - advice for undergrads interested in research](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)** -- John Hewitt
 
@@ -40,7 +70,7 @@
 
 **（可能不准的）院校分类**
 
-- **[Open CS (原 MSCSAPP) 的总结](https://opencs.app/phdinfo/)**
+- **[Open CS Application 上的总结](https://opencs.app/phdinfo/)**
 
 - **[Frankdark@知乎 的总结](https://zhuanlan.zhihu.com/p/128037373)**
 
@@ -76,7 +106,7 @@ Shriram Krishnamurthi 是布朗大学的教授。这篇文章主要讲“怎么�
 
 
 
-# 邮件礼仪
+# 邮件相关
 
 ### 你是否应该给教授发邮件
 
@@ -166,9 +196,9 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 
 
-# 内地高校学生可用资源
+# 更多链接
 
-### 飞跃手册
+### 内地高校飞跃手册
 
 很多内地学校都有自己的《飞跃手册》，一般是一本很大很全的申研攻略。其中一些的链接如下：
 
@@ -179,11 +209,37 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 
 
-# 大一到大三可用资源
-
 ### UIUC的暑研数据库
 
 **[Undergraduate Summer Research Opportunities Database](https://researchops.web.illinois.edu/)**
 
 这个数据库包括美国范围内的很多学校的暑研机会。
+
+
+
+### PhD申请总结帖
+
+**[2023 Fall 你都申请了哪些学校的 MA/MS/PhD/JD/MD/MFA，录取结果如何？](https://www.zhihu.com/question/360515552)**
+
+知乎上的PhD申请结果分享楼。可以按照类似格式搜索往年的帖子。
+
+**[Blog - Open CS Application](https://opencs.app/blog/)**
+
+Open CS Application上的PhD申请经历分享贴合集。
+
+
+
+### 常见问题的答疑（如硕转博）
+
+**[FAQ - Open CS Application](https://opencs.app/faq/)**
+
+Open CS Application上同时有MS和PhD项目申请的内容，阅读时请注意两者的申请要求有差异（虽然有时很接近）。
+
+
+
+### 现PhD学生的生存手册
+
+[**awesome-phd-advice**](https://github.com/pliang279/awesome-phd-advice) -- Paul Liang
+
+一个很大的，收集给<u>现</u>PhD学生的建议的仓库，包括做助教、申请奖学金等。
 
