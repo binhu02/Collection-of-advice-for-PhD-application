@@ -1,12 +1,12 @@
 本文首发于https://bin-hu.com/post/collection-of-advice-for-phd-application/
+
 遵循CC BY-NC-SA 4.0协议
 
-
-这几天整理了一下浏览器收藏夹里的各种关于 PhD 申请的攻略文章，分了类并且写了简短的中文导读，另外也添加了一些自己常用的网站。下面的部分文章和 CS 强相关，所以如果你申请的不是 CS 方向的 PhD，请选择性的阅读这些文章。
+这几天整理了一下浏览器收藏夹里的各种关于北美 PhD 申请的攻略文章，分了类并且写了简短的中文导读，另外也添加了一些自己常用的网站。下面的部分文章和 CS 强相关，所以如果你申请的不是 CS 方向的 PhD，请选择性的阅读这些文章。
 
 这篇文章会同步在GitHub仓库：**[binhu02/Collection-of-advice-for-PhD-application](https://github.com/binhu02/Collection-of-advice-for-PhD-application)**
 
-也欢迎大家给我发邮件补充相关的文章，我会放一份致谢名单在这里。
+**我会持续扩充这篇文章**，也欢迎大家给我发邮件补充相关的文章，我会放一份致谢名单在这里。
 
 ---
 
@@ -16,13 +16,17 @@
 
 - [**Student Perspectives on Applying to NLP PhD Programs**](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin
 
-  （这篇非常详细，建议优先看完）
+  （这篇建议除了选校之外，也包含了标化、文书、推荐信、面试等因素会怎样影响你的录取，非常详细。并有部分代入国际申请人的视角。非常推荐在了解下面的内容之前看完。）
 
 - **[Undergrad to PhD, or not - advice for undergrads interested in research](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)** -- John Hewitt
 
+  （这篇建议会告诉你本科四年可以准备什么）
+
 - [**How to Choose Your Grad School**](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/) -- Tim Dettmers
 
+  （这篇建议通过多种视角告诉你如何选择合适自己的学校、组和导师）
 
+  
 
 ### 以顶会 paper 数量为依据的 CS 院校排名
 
@@ -162,11 +166,15 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 - **[Academic Pages](https://github.com/academicpages/academicpages.github.io)**
 
-- **[Hugo Academic](https://themes.gohugo.io/themes/starter-hugo-academic/)** （本网页基于这个模板）
+- **[Hugo Academic](https://themes.gohugo.io/themes/starter-hugo-academic/)** [注1]
+
+  
 
 **其他模板（需要会一点前端）**
 
 - [**jonbarron/website**](https://github.com/jonbarron/website)
+
+---
 
 
 
@@ -216,4 +224,10 @@ Open CS Application上同时有MS和PhD项目申请的内容，阅读时请注�
 [**awesome-phd-advice**](https://github.com/pliang279/awesome-phd-advice) -- Paul Liang
 
 一个很大的，收集给<u>现</u>PhD学生的建议的仓库，包括做助教、申请奖学金等。
+
+
+
+----
+
+[注1] 本网站使用这个模板。这个模板需要go lang的版本不高于1.16。
 
