@@ -1,32 +1,6 @@
----
-# Documentation: https://wowchemy.com/docs/managing-content/
+本文首发于https://bin-hu.com/post/collection-of-advice-for-phd-application/
+遵循CC BY-NC-SA 4.0协议
 
-title: "Collection of Advice for PhD Application"
-subtitle: ""
-summary: ""
-authors: [Bin Hu]
-tags: [PhD Application]
-categories: [Collection]
-date: 2023-06-23T22:55:43-05:00
-lastmod: 2023-06-24T00:15:03-05:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
----
 
 这几天整理了一下浏览器收藏夹里的各种关于 PhD 申请的攻略文章，分了类并且写了简短的中文导读，另外也添加了一些自己常用的网站。下面的部分文章和 CS 强相关，所以如果你申请的不是 CS 方向的 PhD，请选择性的阅读这些文章。
 
@@ -140,7 +114,7 @@ JHU 语言语音处理中心的申请人指南，在 essays 章节列举了应�
 
 Nathan Schneider 是乔治城大学的助理教授。他在这篇文章里非常详细的介绍了一篇优秀文书的要求，包括篇幅、内容，以及如何修改文书。
 
-### Lelson Liu 的文书示例
+### Nelson Liu 的文书示例
 
 [**PhD Statement of Purpose**](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/) -- Nelson Liu
 
