@@ -2,19 +2,35 @@
 
 本文适用[**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议
 
-这几天整理了一下浏览器收藏夹里的各种关于北美 PhD 申请的攻略文章，分了类并且写了简短的中文导读，另外也添加了一些自己常用的网站。下面的部分文章和 CS 强相关，所以如果你申请的不是 CS 方向的 PhD，请选择性的阅读这些文章。
+以下为正文
+---
 
-这篇文章会同步在GitHub仓库：**[binhu02/Collection-of-advice-for-PhD-application](https://github.com/binhu02/Collection-of-advice-for-PhD-application)**
+这几天整理了一下浏览器收藏夹里的各种关于北美 PhD 申请的攻略文章，分了类并且写了简短的中文导读，另外也添加了一些自己常用的网站。下面的部分文章和 CS 强相关，所以如果你申请的不是 CS 方向的 PhD，请选择性的阅读这些文章。有一些文章的内容包含了非常全面的内容，我在这些文章的标题后面打上星号。
 
-**我会持续扩充这篇合集**，也欢迎大家给我发邮件补充相关的文章，我会放一份致谢名单在这里。
+这篇合集会同步在GitHub仓库：**[binhu02/Collection-of-advice-for-PhD-application](https://github.com/binhu02/Collection-of-advice-for-PhD-application)**
+
+**这篇合集会不定时更新**，欢迎大家给我发邮件补充相关的文章，我会放一份致谢名单在这里。
 
 ---
 
-# 选校/该不该读 PHD
+**目录：**
+
+- <a href="#%E9%80%89%E6%A0%A1%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%AF%BB-phd">选校/该不该读 PHD</a>
+- <a href="#%E6%8E%A8%E8%8D%90%E4%BF%A1">推荐信</a>
+- <a href="#%E9%82%AE%E4%BB%B6%E5%A5%97%E7%A3%81">邮件/套磁</a>
+- <a href="#%E6%96%87%E4%B9%A6-statement-of-proposal">文书 (Statement of Purpose)</a>
+- <a href="#%E6%A0%87%E5%8C%96%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E5%8D%95-%E6%89%98%E7%A6%8Fgre%E7%AD%89">标化考试/成绩单 (托福、GRE等)</a>
+- <a href="#%E7%AE%80%E5%8E%86-cv">简历 (CV)</a>
+- <a href="#%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5">个人主页</a>
+- <a href="#%E6%9B%B4%E5%A4%9A%E9%93%BE%E6%8E%A5">更多链接</a>
+
+---
+
+## 选校/该不该读 PHD
 
 ### PhD 学生们的建议
 
-- [**Student Perspectives on Applying to NLP PhD Programs**](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin
+- [**Student Perspectives on Applying to NLP PhD Programs***](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin
 
   （这篇建议除了选校之外，也包含了标化考试、文书、推荐信、面试等因素会怎样影响你的录取，非常详细。并有部分代入国际申请人的视角。非常推荐在了解下面的内容之前看完。）
 
@@ -65,7 +81,7 @@ MIT维护的生活成本计算器。
 
 ---
 
-# 推荐信
+## 推荐信
 
 ### 怎么请别人写推荐信
 
@@ -83,7 +99,7 @@ Shriram Krishnamurthi 是布朗大学的教授。这篇文章主要讲“怎么�
 
 
 
-# 邮件相关
+## 邮件/套磁
 
 ### 你是否应该给教授发邮件
 
@@ -103,7 +119,7 @@ Yonantan Bisk 是 CMU 的助理教授。在这篇文章里他阐述了在什么�
 
 
 
-# 文书
+## 文书 (Statement of Proposal)
 
 ### 学校希望在文书里看到什么
 
@@ -127,15 +143,15 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 
 
-# 标化考试/成绩单
+## 标化考试/成绩单 (托福、GRE等)
 
-**[北美博士申请攻略](https://lijinzhang.com/post/2022-03-03-tutorial-phd-app)** -- 张沥今
+**[北美博士申请攻略*](https://lijinzhang.com/post/2022-03-03-tutorial-phd-app)** -- 张沥今
 
-作者在2022年获得了斯坦福大学心理学PhD项目的录取，在这个文章中她详细阐述了各项标化考试成绩该如何准备、它们如何影响录取，以及如何从内地学校申请递送成绩单等相关内容。作者申请的专业是心理学，但是这些标化考试的经验是广泛通用的。
+张沥今是斯坦福大学的心理学博士生，于2022年入学。在这篇文章中她详细地阐述了各项标化考试成绩该如何准备、它们的重要性，以及如何递送成绩单等内容，几乎涵盖了PhD申请过程所有需要注意的点。作者申请的专业是心理学，但是这些标化考试的经验是广泛通用的。
 
 
 
-[**Student Perspectives on Applying to NLP PhD Programs**](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin
+[**Student Perspectives on Applying to NLP PhD Programs***](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin
 
 本合集的第一篇文章。其中阐述了标化成绩以及出版物等材料的相对重要性。
 
@@ -143,7 +159,7 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 
 
-# 简历(CV)
+## 简历 (CV)
 
 请不要在CV上放照片。
 
@@ -157,7 +173,7 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 [**GSAS CV & Cover Letter Guide**](https://careerservices.fas.harvard.edu/resources/gsas-cv-cover-letter-guide/)
 
-这篇文章详细阐释了CV的每一部分写些什么，以及一些固定的格式惯例（如：分点描述经历的时候使用动词过去式开头）。此外还给出了许多CV案例
+这篇文章详细阐释了CV的每一部分写些什么，以及一些固定的格式惯例（如：分点描述经历的时候使用动词过去式开头）。此外还给出了许多CV案例。
 
 ### Overleaf 上的 CV 模板
 
@@ -175,7 +191,7 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 
 
-# 个人网页
+## 个人主页
 
 ### 免费静态网站托管服务
 
@@ -215,7 +231,7 @@ Nelson Liu 是斯坦福大学的博士生，他在这篇文章中分享了他的
 
 
 
-# 更多链接
+## 更多链接
 
 ### 内地高校飞跃手册
 
